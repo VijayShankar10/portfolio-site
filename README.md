@@ -1,6 +1,6 @@
 # Vijay Shankar M – Developer Portfolio
 
-A personal portfolio website showcasing my skills, projects, certifications, and experience in Computer Science, Software Development, and Artificial Intelligence.
+A personal portfolio website showcasing your skills, projects, certifications, and experience.
 
 ---
 
